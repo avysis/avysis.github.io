@@ -3,6 +3,6 @@
 
 @import "{{ site.theme }}";
 
-.credits, #header, #title>hr {
+footer > i {
   display: none !important;
 }

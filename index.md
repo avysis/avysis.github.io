@@ -1,6 +1,6 @@
 # Get the free antivirus that isn't bad
 
-Stop buying McAfee licenses. Start using Island.
+Stop buying McAfee licenses, stop dealing with crappy installer frameworks. Start using Island.
 
 <img src="download.png" class="download" width="320px">
 <script src="downloadbutton.js"></script>

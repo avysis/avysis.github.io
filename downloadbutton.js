@@ -1,6 +1,6 @@
 document.querySelector(".download").addEventListener("click", async () => {
   let api = await fetch(
-    "https://api.github.com/repos/getisland/island/releases"
+    "https://api.github.com/repos/avysis/avysis/releases"
   );
   let json = await api.json();
   let a = document.createElement("a");
