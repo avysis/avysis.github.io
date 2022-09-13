@@ -2,7 +2,7 @@
 
 Stop buying McAfee licenses. Start using Island.
 
-<img src="download.png" class="download">
+<img src="download.png" class="download" width="320px">
 <script>
     document.querySelector(".download").addEventListener("click", async () => {
         let api = await fetch("https://api.github.com/repos/getisland/island/releases");
