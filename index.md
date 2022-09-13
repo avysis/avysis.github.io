@@ -1,4 +1,4 @@
-# Get the free antivirus that isn't bad
+## Get the free antivirus that isn't bad
 
 Stop buying McAfee licenses, stop dealing with crappy installer frameworks. Start using Island.
 
